@@ -163,7 +163,8 @@
       "source": "guide",
       "evidence": "文内日期",
       "commits": [],
-      "phase": "06"
+      "phase": "06",
+      "display_date": "2026-06-07"
     },
     {
       "id": "D02",
@@ -174,7 +175,8 @@
       "source": "guide",
       "evidence": "手册陈述",
       "commits": [],
-      "phase": "06"
+      "phase": "06",
+      "display_date": "2026-06-07"
     },
     {
       "id": "D03",
@@ -185,7 +187,8 @@
       "source": "rag",
       "evidence": "设计/实现说明",
       "commits": [],
-      "phase": "06"
+      "phase": "06",
+      "display_date": "2026-06-08"
     },
     {
       "id": "D04",
@@ -196,7 +199,8 @@
       "source": "mcp",
       "evidence": "手册边界",
       "commits": [],
-      "phase": "06"
+      "phase": "06",
+      "display_date": "2026-06-09"
     },
     {
       "id": "D05",
@@ -207,7 +211,8 @@
       "source": "auth",
       "evidence": "历史 E2E",
       "commits": [],
-      "phase": "06"
+      "phase": "06",
+      "display_date": "2026-06-09"
     },
     {
       "id": "D06",
@@ -221,7 +226,8 @@
         "19825b8",
         "e98823f"
       ],
-      "phase": "07"
+      "phase": "07",
+      "display_date": "2026-07-12"
     },
     {
       "id": "D07",
@@ -235,7 +241,8 @@
         "83a9531",
         "3dc3b83"
       ],
-      "phase": "07"
+      "phase": "07",
+      "display_date": "2026-07-12—13"
     },
     {
       "id": "D08",
@@ -248,7 +255,8 @@
       "commits": [
         "11b8aca"
       ],
-      "phase": "07"
+      "phase": "07",
+      "display_date": "2026-07-14"
     },
     {
       "id": "D09",
@@ -264,7 +272,8 @@
         "64c99a7",
         "07f3c73"
       ],
-      "phase": "07"
+      "phase": "07",
+      "display_date": "2026-07-14—15"
     },
     {
       "id": "D10",
@@ -278,7 +287,8 @@
         "056c1db",
         "00ab38d"
       ],
-      "phase": "07"
+      "phase": "07",
+      "display_date": "2026-07-15—18"
     },
     {
       "id": "D11",
@@ -294,7 +304,8 @@
         "0974c8a",
         "4f0ef6b"
       ],
-      "phase": "08"
+      "phase": "08",
+      "display_date": "2026-08-27—29"
     },
     {
       "id": "D12",
@@ -309,7 +320,8 @@
         "0eca6e3",
         "385a721"
       ],
-      "phase": "08"
+      "phase": "08",
+      "display_date": "2026-08-28—29"
     },
     {
       "id": "D13",
@@ -324,7 +336,8 @@
         "e123c60",
         "b4cf306"
       ],
-      "phase": "08"
+      "phase": "08",
+      "display_date": "2026-08-29"
     },
     {
       "id": "D14",
@@ -338,7 +351,8 @@
         "11c09aa",
         "1232de1"
       ],
-      "phase": "08"
+      "phase": "08",
+      "display_date": "2026-08-30"
     },
     {
       "id": "D15",
@@ -353,7 +367,8 @@
         "a9747c6",
         "860ea9d"
       ],
-      "phase": "08"
+      "phase": "08",
+      "display_date": "2026-08-30"
     },
     {
       "id": "D16",
@@ -369,7 +384,8 @@
         "3e3817f",
         "73dd03b"
       ],
-      "phase": "08"
+      "phase": "08",
+      "display_date": "2026-08-30—31"
     },
     {
       "id": "D17",
@@ -385,7 +401,8 @@
         "b92c5a0",
         "aaf6456"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-02—04"
     },
     {
       "id": "D18",
@@ -400,7 +417,8 @@
         "99fdc56",
         "466ae51"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-04—05"
     },
     {
       "id": "D19",
@@ -415,7 +433,8 @@
         "39c976c",
         "725dc6c"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-12—13"
     },
     {
       "id": "D20",
@@ -428,7 +447,8 @@
       "commits": [
         "2a298e4"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-13—14"
     },
     {
       "id": "D21",
@@ -441,7 +461,8 @@
       "commits": [
         "eccfe7c"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-15"
     },
     {
       "id": "D22",
@@ -457,7 +478,8 @@
         "04e9582",
         "4a598b3"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-15—22"
     },
     {
       "id": "D23",
@@ -472,7 +494,8 @@
         "34d21ca",
         "d5bbf24"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-15—16"
     },
     {
       "id": "D24",
@@ -487,7 +510,8 @@
         "b04e32d",
         "c03fa4a"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-19"
     },
     {
       "id": "D25",
@@ -501,7 +525,8 @@
         "4c19a3f",
         "d0fc59b"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-19"
     },
     {
       "id": "D26",
@@ -516,7 +541,8 @@
         "f12f802",
         "4858b9d"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-19—24"
     },
     {
       "id": "D27",
@@ -530,7 +556,8 @@
         "7592ae5",
         "dcd0e3a"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-24"
     },
     {
       "id": "D28",
@@ -541,7 +568,8 @@
       "source": "v2",
       "evidence": "PRD转向",
       "commits": [],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-25"
     },
     {
       "id": "D29",
@@ -552,7 +580,8 @@
       "source": "v22",
       "evidence": "设计修订，非全量验收",
       "commits": [],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-25"
     },
     {
       "id": "D30",
@@ -563,7 +592,8 @@
       "source": "v25",
       "evidence": "连续PRD修订",
       "commits": [],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-25—26"
     },
     {
       "id": "D31",
@@ -579,7 +609,8 @@
         "50cecdd",
         "96827d3"
       ],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-26—27"
     },
     {
       "id": "D32",
@@ -590,7 +621,8 @@
       "source": "pilot",
       "evidence": "正式范围决策",
       "commits": [],
-      "phase": "09"
+      "phase": "09",
+      "display_date": "2026-09-27—28"
     },
     {
       "id": "D33",
@@ -603,7 +635,8 @@
       "commits": [
         "2526801"
       ],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-04"
     },
     {
       "id": "D34",
@@ -614,7 +647,8 @@
       "source": "general",
       "evidence": "独立验收记录",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-04"
     },
     {
       "id": "D35",
@@ -625,7 +659,8 @@
       "source": "admin",
       "evidence": "有界真实验收",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-04"
     },
     {
       "id": "D36",
@@ -636,7 +671,8 @@
       "source": "publication",
       "evidence": "真实RED→GREEN→恢复",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-05"
     },
     {
       "id": "D37",
@@ -647,7 +683,8 @@
       "source": "vkc",
       "evidence": "用户选择 + 实现记录",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-05"
     },
     {
       "id": "D38",
@@ -658,7 +695,8 @@
       "source": "vkc",
       "evidence": "真实页面与产物记录",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-06"
     },
     {
       "id": "D39",
@@ -669,7 +707,8 @@
       "source": "vkc",
       "evidence": "学习闭环记录",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-07"
     },
     {
       "id": "D40",
@@ -680,7 +719,8 @@
       "source": "architecture",
       "evidence": "真实接线与验收",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-07"
     },
     {
       "id": "D41",
@@ -691,7 +731,8 @@
       "source": "history",
       "evidence": "归档清单/现有说明",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-07—10"
     },
     {
       "id": "D42",
@@ -702,7 +743,8 @@
       "source": "accept",
       "evidence": "运维验收入口；具体批次见归档",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-10"
     },
     {
       "id": "D43",
@@ -713,7 +755,8 @@
       "source": "architecture",
       "evidence": "10/15实测记录",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-15"
     },
     {
       "id": "D44",
@@ -724,7 +767,8 @@
       "source": "catalog",
       "evidence": "有界前后快照/执行清单",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-05"
     },
     {
       "id": "D45",
@@ -735,7 +779,8 @@
       "source": "practice",
       "evidence": "学生练习验收",
       "commits": [],
-      "phase": "10"
+      "phase": "10",
+      "display_date": "2026-10-05"
     }
   ],
   "pitfalls": [
@@ -750,7 +795,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P02",
@@ -763,7 +809,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P03",
@@ -776,7 +823,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P04",
@@ -789,7 +837,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P05",
@@ -802,7 +851,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P06",
@@ -815,7 +865,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P07",
@@ -828,7 +879,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P08",
@@ -841,7 +893,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "08",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-08"
     },
     {
       "id": "P09",
@@ -854,7 +907,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P10",
@@ -867,7 +921,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P11",
@@ -880,7 +935,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P12",
@@ -893,7 +949,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P13",
@@ -906,7 +963,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P14",
@@ -919,7 +977,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P15",
@@ -932,7 +991,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P16",
@@ -945,7 +1005,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P17",
@@ -958,7 +1019,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P18",
@@ -971,7 +1033,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P19",
@@ -984,7 +1047,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P20",
@@ -997,7 +1061,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P21",
@@ -1010,7 +1075,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "08",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-08"
     },
     {
       "id": "P22",
@@ -1023,7 +1089,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P23",
@@ -1036,7 +1103,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "06",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-06"
     },
     {
       "id": "P24",
@@ -1049,7 +1117,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "07",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-07"
     },
     {
       "id": "P25",
@@ -1065,7 +1134,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "08",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-08"
     },
     {
       "id": "P26",
@@ -1078,7 +1148,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "08",
-      "evidence_period": "2026-08"
+      "evidence_period": "2026-08",
+      "display_date": "2026-08"
     },
     {
       "id": "P27",
@@ -1091,7 +1162,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "08",
-      "evidence_period": "2026-08—10"
+      "evidence_period": "2026-08—10",
+      "display_date": "2026-08—10"
     },
     {
       "id": "P28",
@@ -1104,7 +1176,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P29",
@@ -1117,7 +1190,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P30",
@@ -1130,7 +1204,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P31",
@@ -1143,7 +1218,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P32",
@@ -1156,7 +1232,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P33",
@@ -1169,7 +1246,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P34",
@@ -1182,7 +1260,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P35",
@@ -1195,7 +1274,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P36",
@@ -1210,7 +1290,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P37",
@@ -1225,7 +1306,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P38",
@@ -1240,7 +1322,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P39",
@@ -1255,7 +1338,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P40",
@@ -1270,7 +1354,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P41",
@@ -1286,7 +1371,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P42",
@@ -1299,7 +1385,8 @@
       "commits": [],
       "status": "历史设计修订/风险约束",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P43",
@@ -1312,7 +1399,8 @@
       "commits": [],
       "status": "历史设计修订/风险约束",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P44",
@@ -1325,7 +1413,8 @@
       "commits": [],
       "status": "历史设计修订/风险约束",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P45",
@@ -1338,7 +1427,8 @@
       "commits": [],
       "status": "历史设计修订/风险约束",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P46",
@@ -1351,7 +1441,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P47",
@@ -1364,7 +1455,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P48",
@@ -1377,7 +1469,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P49",
@@ -1392,7 +1485,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P50",
@@ -1407,7 +1501,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P51",
@@ -1423,7 +1518,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P52",
@@ -1439,7 +1535,8 @@
       ],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P53",
@@ -1452,7 +1549,8 @@
       "commits": [],
       "status": "历史设计修订/风险约束",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P54",
@@ -1465,7 +1563,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "09",
-      "evidence_period": "2026-09"
+      "evidence_period": "2026-09",
+      "display_date": "2026-09"
     },
     {
       "id": "P55",
@@ -1478,7 +1577,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P56",
@@ -1491,7 +1591,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P57",
@@ -1504,7 +1605,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P58",
@@ -1517,7 +1619,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P59",
@@ -1530,7 +1633,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P60",
@@ -1543,7 +1647,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P61",
@@ -1556,7 +1661,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P62",
@@ -1569,7 +1675,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P63",
@@ -1582,7 +1689,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P64",
@@ -1595,7 +1703,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P65",
@@ -1608,7 +1717,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P66",
@@ -1621,7 +1731,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P67",
@@ -1634,7 +1745,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P68",
@@ -1647,7 +1759,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P69",
@@ -1660,7 +1773,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P70",
@@ -1673,7 +1787,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P71",
@@ -1686,7 +1801,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P72",
@@ -1699,7 +1815,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P73",
@@ -1712,7 +1829,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P74",
@@ -1725,7 +1843,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P75",
@@ -1738,7 +1857,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P76",
@@ -1751,7 +1871,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P77",
@@ -1764,7 +1885,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P78",
@@ -1777,7 +1899,8 @@
       "commits": [],
       "status": "历史故障或审计记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P79",
@@ -1790,7 +1913,8 @@
       "commits": [],
       "status": "历史验收记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P80",
@@ -1803,7 +1927,8 @@
       "commits": [],
       "status": "历史验收记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P81",
@@ -1816,7 +1941,8 @@
       "commits": [],
       "status": "历史验收记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     },
     {
       "id": "P82",
@@ -1829,7 +1955,8 @@
       "commits": [],
       "status": "历史验收记录；未在本轮重跑",
       "phase": "10",
-      "evidence_period": "2026-10"
+      "evidence_period": "2026-10",
+      "display_date": "2026-10"
     }
   ],
   "conflicts": [
